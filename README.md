@@ -1,4 +1,4 @@
-## **Laundry Management System - CodeIgniter 3 Project**
+## **Laundry Management System **
 
 ## **Recommended PHP Version 7.4**
 
@@ -15,12 +15,9 @@
 -------------------------------------------------------
 #### **Original**
 
-**Developed By:** Nursyahrina
-**Published @:** [https://codeastro.com/laundry-management-system-in-php-codeigniter-with-source-code/]
+**Developed By:** Ian DubaiDeveloper
 
 -------------------------------------------------------
 #### **Customized**
-**Customized By:** oretnom23
-**Published @:** [https://sourcecodester.com/php-ci-laundry-management-system-source-code/]
-
--------------------------------------------------------
+**Customized By:** Ian DubaiDeveloper
+----------------------
